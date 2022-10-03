@@ -17,6 +17,7 @@
 		7BA3ED4028EAED5700B13A53 /* userProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA3ED3F28EAED5700B13A53 /* userProfileView.swift */; };
 		7BA3ED4228EAED7200B13A53 /* userProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA3ED4128EAED7200B13A53 /* userProfileViewModel.swift */; };
 		7BA3ED4428EAED8900B13A53 /* currentMoviesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA3ED4328EAED8900B13A53 /* currentMoviesViewModel.swift */; };
+		7BA3ED4628EAEE1E00B13A53 /* currentMoviesViewRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA3ED4528EAEE1E00B13A53 /* currentMoviesViewRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		7BA3ED3F28EAED5700B13A53 /* userProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = userProfileView.swift; sourceTree = "<group>"; };
 		7BA3ED4128EAED7200B13A53 /* userProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = userProfileViewModel.swift; sourceTree = "<group>"; };
 		7BA3ED4328EAED8900B13A53 /* currentMoviesViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = currentMoviesViewModel.swift; sourceTree = "<group>"; };
+		7BA3ED4528EAEE1E00B13A53 /* currentMoviesViewRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = currentMoviesViewRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				7BA3ED3D28EAED4600B13A53 /* currentMoviesView.swift */,
+				7BA3ED4528EAEE1E00B13A53 /* currentMoviesViewRow.swift */,
 				7BA3ED3F28EAED5700B13A53 /* userProfileView.swift */,
 			);
 			path = Views;
@@ -186,6 +189,7 @@
 				7BA3ED2B28EAE4B900B13A53 /* ContentView.swift in Sources */,
 				7BA3ED4028EAED5700B13A53 /* userProfileView.swift in Sources */,
 				7BA3ED2928EAE4B900B13A53 /* cineAppApp.swift in Sources */,
+				7BA3ED4628EAEE1E00B13A53 /* currentMoviesViewRow.swift in Sources */,
 				7BA3ED3C28EAE95000B13A53 /* TabBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
